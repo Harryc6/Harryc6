@@ -3,7 +3,7 @@
 **Full-Stack Developer** specialising in **Java / Scala** backends and **React / TypeScript** frontends.  
 I enjoy modernising legacy systems, improving developer experience, and building tools that make complex systems easier to use and understand.
 
-I’m currently exploring **LLM-powered automation**, **MCP services**, and expanding my **home-lab** for self-hosted development and experimentation.
+I’m currently exploring **Electron** and expanding my **home-lab** for self-hosted development and experimentation.
 
 ---
 
@@ -31,7 +31,7 @@ I’m currently exploring **LLM-powered automation**, **MCP services**, and expa
 
 ## ⚗️ What I'm Currently Working On
 
+- **Tossu** — Twitch-integrated overlay system that handles throwables and their interaction with streamer’s model
 - **Key Level Insights** — M+ data analytics platform  
 - **MCP integrations** for automating note generation, documentation, and home-lab workflows  
 - Expanding my **Proxmox cluster** with Kubernetes, self-hosted tools, and automated observability  
-- Improving my AI workflow using **local LLMs** and distributed compute
