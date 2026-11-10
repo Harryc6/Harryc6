@@ -1,9 +1,8 @@
 # Hi, I'm Harry 👋
 
-**Full-Stack Developer** specialising in **Java / Scala** backends and **React / TypeScript** frontends.  
-I enjoy modernising legacy systems, improving developer experience, and building tools that make complex systems easier to use and understand.
+I'm a Full-Stack Developer at **Formpak**, with experience modernising legacy applications, building web interfaces, and improving developer workflows.
 
-I’m currently exploring **Electron** and expanding my **home-lab** for self-hosted development and experimentation.
+My background spans **Java, Scala, React, and TypeScript**, alongside build tooling, CI, and relational databases. I also have experience as a Scrum Master and enjoy helping teams improve how they work.
 
 ---
 
